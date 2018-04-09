@@ -1,0 +1,10 @@
+fgt1:
+  hostname: "10.10.10.115"
+  user: "admin"
+  password: "toto"
+  https: "true"
+fgt2:
+  hostname: "192.168.122.136"
+  user: "admin"
+  password: ""
+  https: "false"
